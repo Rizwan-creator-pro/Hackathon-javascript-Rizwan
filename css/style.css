@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+main{
+    flex: 1 0 auto;
+}
+#reg{
+    display: none;
+}
+#loginFirm{
+    display: none;
+}
+#blog{
+    display: none;
+}
+#color{
+    background-color: #1c3457;
+}
+
+#todos{
+    display: none;
+}
+
+#todo{
+    display: none;
+}
